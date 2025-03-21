@@ -20,7 +20,7 @@ They remained compatible through Minecraft 1.21.3.
 
 ## MobColors
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
-- ⚠️ Unaware of mob variants introduced in 1.21.5 for chicken, cow, pig
+- ⚠️ Mob variants introduced in 1.21.5 are not recognized: chicken, cow, pig
 
 ## NetworkInterceptor
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
