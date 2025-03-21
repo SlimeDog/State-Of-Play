@@ -10,7 +10,7 @@ They remained compatible through Minecraft 1.21.3.
 
 ## AggressiveAnimals
 - Compatible with 1.21.3 PaperMC and SpigotMC
-- ⚠️ Compatible with 1.21.4 on PaperMC only; throws an error on SpigotMC
+- ⚠️ Compatible with 1.21.4 on PaperMC only
 
 ## BiomeRemap
 - Compatible with 1.21.4 PaperMC and SpigotMC
@@ -19,8 +19,8 @@ They remained compatible through Minecraft 1.21.3.
 - Compatible with 1.21.4 PaperMC and SpigotMC
 
 ## MobColors
-- Compatible with 1.21.4 PaperMC and SpigotMC
-- Unaware of variations introduced in 1.21.5: chicken, cow, pig
+- Compatible with 1.21.4 PaperMC and SpigotMC <br>
+- ⚠️ Unaware of mob variants introduced in 1.21.5 for chicken, cow, pig
 
 ## NetworkInterceptor
 - Compatible with 1.21.4 PaperMC and SpigotMC
