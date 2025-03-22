@@ -25,9 +25,10 @@ They remained compatible through Minecraft 1.21.3.
 ## NetworkInterceptor
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 - ⚠️ Requires configuration modification on Java 24
-  - Security Manager was permanently removed in Java 24
-  - NetworkInterceptor method security-manager is no longer recognized, and should be deleted: line 32 of the canonical config.yml
-  - Some outgoing requests will not be recognized by NetworkInterceptor method proxy-selector, as described in the canonical config.yml
+  - Security Manager was [permanently removed](https://openjdk.org/jeps/486) in Java 24
+  - NetworkInterceptor method security-manager is no longer available for use
+    - It should be deleted (or commented out) at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
+  - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
 
 ## pHD
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
