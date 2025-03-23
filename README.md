@@ -9,9 +9,11 @@ at which point they were compatible with Minecraft 1.21.
 They remained compatible through Minecraft 1.21.3.
 The following sections show the status through the date shown above.
 
+-----
+
 ## AggressiveAnimals
 - Compatible with PaperMC 1.21.4
-- ⚠️ Incompatible with SpigotMC 1.21.4 or later
+- ⚠️ Incompatible with SpigotMC 1.21.4 or later &mdash; version not recognized
 
 ## BiomeRemap
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
