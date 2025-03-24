@@ -5,15 +5,16 @@ This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
 
 SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
-at which point they were compatible with Minecraft 1.21.
-They remained compatible through Minecraft 1.21.3.
-The following sections show the status through the date shown above.
+meaning that development and support have ceased.
+At that point, they were compatible with Minecraft 1.21,
+and they remained 100% compatible through Minecraft 1.21.3.
+The following sections show the status of each plugin on the date shown above.
 
 -----
 
 ## AggressiveAnimals
 - Compatible with PaperMC 1.21.4
-- ⚠️ Incompatible with SpigotMC 1.21.4 or later &mdash; version not recognized
+- ⚠️ Incompatible with SpigotMC 1.21.4 or later &mdash; new MC version is not recognized
 
 ## BiomeRemap
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
