@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-03-23
+Last update: 2025-03-26
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -14,15 +14,18 @@ The following sections show the status of each plugin newer Minecraft versions.
 
 ## AggressiveAnimals
 - Compatible with PaperMC 1.21.4
-- ⚠️ Incompatible with SpigotMC 1.21.4 or later &mdash; new MC version is not recognized
+- ⚠️ Incompatible with SpigotMC 1.21.4 or later &mdash; MC version is not recognized
 
 ## BiomeRemap
+- Compatible with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
 ## EntityCount
+- Compatible with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
 ## MobColors
+- Compatible with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 - ⚠️ Mob variants introduced in 1.21.5 are not recognized: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants)
 
@@ -38,5 +41,6 @@ The following sections show the status of each plugin newer Minecraft versions.
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
 ## PluginVersions
+- Compatible with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
