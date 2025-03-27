@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-03-26
+Last update: 2025-03-27
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -30,6 +30,7 @@ The following sections show the status of each plugin newer Minecraft versions.
 - ⚠️ Mob variants introduced in 1.21.5 are not recognized: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants)
 
 ## NetworkInterceptor
+- Compatible with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 - ⚠️ Requires configuration modification on Java 24
   - `Security Manager` was [permanently removed](https://openjdk.org/jeps/486) in Java 24
@@ -38,6 +39,7 @@ The following sections show the status of each plugin newer Minecraft versions.
   - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
 
 ## pHD
+- ⚠️ Dependent plugins are not yet availalbe to determine compatibility with SpigotMC 1.21.5
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
 ## PluginVersions
