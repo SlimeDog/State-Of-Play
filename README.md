@@ -39,7 +39,7 @@ The following sections show the status of each plugin for newer Minecraft versio
   - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
 
 ## pHD
-- ⚠️ Dependent plugins are not yet availalbe to determine compatibility with SpigotMC 1.21.5
+- Compatible with SpigotMC 1.21.5, verified with DecentHolograms 2.8.16
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
 ## PluginVersions
