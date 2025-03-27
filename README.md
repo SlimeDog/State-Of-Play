@@ -31,6 +31,8 @@ The following sections show the status of each plugin for newer Minecraft versio
 
 ## NetworkInterceptor
 - Compatible with SpigotMC 1.21.5
+- Compatible with BungeeCord 1.21-1929
+- Compatible with Velocity 3.4.0-483
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 - ⚠️ Requires configuration modification on Java 24
   - `Security Manager` was [permanently removed](https://openjdk.org/jeps/486) in Java 24
@@ -44,5 +46,7 @@ The following sections show the status of each plugin for newer Minecraft versio
 
 ## PluginVersions
 - Compatible with SpigotMC 1.21.5
+- Compatible with BungeeCord 1.21-1929
+- Compatible with Velocity 3.4.0-483
 - Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4
 
