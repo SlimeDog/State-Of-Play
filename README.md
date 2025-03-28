@@ -35,8 +35,8 @@ The following sections show the status of each plugin for newer of Minecraft and
 ✅ Compatible with Velocity 3.4.0-483 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 ⚠️ Configuration modification requires for Java 24 <br>
-  - `Security Manager` was [permanently removed](https://openjdk.org/jeps/486) in Java 24
-  - NetworkInterceptor method `security-manager` is no longer supported
+  - `Security Manager` was [permanently disabled](https://openjdk.org/jeps/486) in Java 24
+  - Consequently, NetworkInterceptor method `security-manager` is no longer supported
     - `security-manager` should be deleted (or commented out) at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
   - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
 
