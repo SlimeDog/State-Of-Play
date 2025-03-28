@@ -12,24 +12,24 @@ The following sections show the status of each plugin for newer of Minecraft and
 
 -----
 
-## AggressiveAnimals
+## AggressiveAnimals 1.9.0
 ✅ Compatible with PaperMC 1.21.4 <br>
-⛔ Incompatible with SpigotMC 1.21.4 or later &mdash; MC version is not supported <br>
+⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
-## BiomeRemap
+## BiomeRemap 3.2.4
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
-## EntityCount
+## EntityCount 1.2.0
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
-## MobColors
+## MobColors 1.2.0
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 ⚠️ Mob variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br>
 
-## NetworkInterceptor
+## NetworkInterceptor 3.4.3
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
@@ -40,11 +40,11 @@ The following sections show the status of each plugin for newer of Minecraft and
     - `security-manager` should be deleted (or commented out) at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
   - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
 
-## pHD
+## pHD 1.9.0
 ✅ Compatible with SpigotMC 1.21.5, verified with DecentHolograms 2.8.16 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
-## PluginVersions
+## PluginVersions 1.3.5
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅ Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
