@@ -35,11 +35,11 @@ The following sections show the status of each plugin for newer of Minecraft and
 ✅ Compatible with Velocity 3.4.0-483 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 ⚠️ Configuration modification required for Java 24 <br>
-  - `Security Manager` was [permanently disabled](https://openjdk.org/jeps/486) in Java 24
-  - Consequently, NetworkInterceptor method `security-manager` is no longer supported
-    - `security-manager` should be deleted (or commented out) at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
-    - Server must be started without the optional Java parameter `-Djava.security.manager=allow`
-  - Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and following; see [release note](https://openjdk.org/jeps/486) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Consequently, NetworkInterceptor method `security-manager` is no longer supported <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Delete (or comment out) `security-manager` at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Start server or proxy without the optional Java parameter `-Djava.security.manager=allow` <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 
 ## pHD 1.9.0
 ✅ Compatible with SpigotMC 1.21.5, verified with DecentHolograms 2.8.16 <br>
