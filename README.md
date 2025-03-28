@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-03-27
+Last update: 2025-03-28
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft and proxies.
