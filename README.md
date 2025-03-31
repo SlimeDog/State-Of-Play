@@ -26,15 +26,15 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## MobColors 1.2.0
 ✅ Compatible with SpigotMC 1.21.5 <br>
-✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 ⚠️ Mob variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br>
+✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
 ## NetworkInterceptor 3.4.3
 ✅ Compatible with SpigotMC 1.21.5 <br>
 ✅Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
-⚠️ Configuration modification required for Java 24 <br>
+⚠️ Configuration and start-up modification required for Java 24 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and following; see [release note](https://openjdk.org/jeps/486) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Consequently, NetworkInterceptor method `security-manager` is no longer supported <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Delete (or comment out) `security-manager` at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
