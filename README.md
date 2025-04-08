@@ -26,7 +26,7 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## MobColors 1.2.0
 ✅ Compatible with SpigotMC 1.21.5 <br>
-⚠️ Mob variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br>
+⚠️ Mob variants introduced in 1.21.5 &mdash; [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), and [pig](https://minecraft.wiki/w/Pig#Variants) &mdash; are not supported <br>
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
 ## NetworkInterceptor 3.4.3
