@@ -5,8 +5,8 @@ This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
 
 SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
-meaning that development and support have ceased.
-At that point, they were compatible with Minecraft 1.21,
+meaning that development and support ceased, and the source code and wiki pages were locked.
+At that point, SlimeDog plugins were compatible with Minecraft 1.21,
 and they remained 100% compatible through Minecraft 1.21.3.
 The following sections show the status of each plugin for newer versions of Minecraft servers and proxies.
 
