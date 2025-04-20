@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-04-12
+Last update: 2025-04-20
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -9,6 +9,8 @@ meaning that development and support ceased, and the source code and wiki pages 
 At that point, SlimeDog plugins were compatible with Minecraft 1.21,
 and they remained 100% compatible through Minecraft 1.21.3.
 The following sections show the status of each plugin for newer versions of Minecraft servers and proxies.
+
+💬 If you are an experienced developer, interested in adoption of any SlimeDog plugin, please leave a note in the [issues](https://github.com/SlimeDog/State-Of-Play/issues) section.
 
 -----
 
