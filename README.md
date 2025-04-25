@@ -29,7 +29,7 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## MobColors 1.2.0
 ✅ Compatible with PaperMC 1.21.5 and SpigotMC 1.21.5 <br>
-⚠️ Cold, temperate, and warm variants introduced in 1.21.5 &mdash; for [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), and [pig](https://minecraft.wiki/w/Pig#Variants) &mdash; are not supported <br> <!--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Cold, temperate, and warm variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br> <!--
 ⚠️ Ghast variants introduced in 1.21.6 &mdash; [ghastling](https://minecraft.wiki/w/Ghastling) and [happy ghast](https://minecraft.wiki/w/Happy_Ghast) &mdash; are not supported <br> -->
 ✅ Compatible with PaperMC 1.21.4 and SpigotMC 1.21.4 <br>
 
