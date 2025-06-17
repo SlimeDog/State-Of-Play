@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-04-20
+Last update: 2025-06-17
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -15,22 +15,22 @@ The following sections show the status of each plugin for newer versions of Mine
 -----
 
 ## AggressiveAnimals 1.9.0
-✅ Compatible with PaperMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC: 1.21.4, 1.21.5, 1.21.6 <br>
 ⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
 ## BiomeRemap 3.2.4
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 
 ## EntityCount 1.2.0
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 
 ## MobColors 1.2.0
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Cold, temperate, and warm variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br> <!--
 ⚠️ Ghast variants introduced in 1.21.6 &mdash; [ghastling](https://minecraft.wiki/w/Ghastling) and [happy ghast](https://minecraft.wiki/w/Happy_Ghast) &mdash; are not supported <br> -->
 
 ## NetworkInterceptor 3.4.3
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 ✅Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
 ⚠️ Configuration and start-up modification required for Java 24 <br>
@@ -44,6 +44,6 @@ The following sections show the status of each plugin for newer versions of Mine
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
 
 ## PluginVersions 1.3.5
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 ✅ Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
