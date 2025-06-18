@@ -42,6 +42,7 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## pHD 1.9.0
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
+⚠️ Compatibility will be updated when a hologram provider is updated to support 1.21.6 <br>
 
 ## PluginVersions 1.3.5
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
