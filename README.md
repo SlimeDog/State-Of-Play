@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-06-17
+Last update: 2025-06-20
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -16,6 +16,7 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## AggressiveAnimals 1.9.0
 ✅ Compatible with PaperMC: 1.21.4, 1.21.5, 1.21.6 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced in 1.21.6 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling) and [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
 ⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
 ## BiomeRemap 3.2.4
@@ -26,12 +27,12 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## MobColors 1.2.0
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Cold, temperate, and warm variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br> <!--
-⚠️ Ghast variants introduced in 1.21.6 &mdash; [ghastling](https://minecraft.wiki/w/Ghastling) and [happy ghast](https://minecraft.wiki/w/Happy_Ghast) &mdash; are not supported <br> -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Cold, temperate, and warm variants introduced in 1.21.5 are not supported: [chicken](https://minecraft.wiki/w/Chicken#Variants), [cow](https://minecraft.wiki/w/Cow#Variants), [pig](https://minecraft.wiki/w/Pig#Variants) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced in 1.21.6 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling) and [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
 
 ## NetworkInterceptor 3.4.3
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
-✅Compatible with BungeeCord 1.21-1929 <br>
+✅ Compatible with BungeeCord 1.21-1929 <br>
 ✅ Compatible with Velocity 3.4.0-483 <br>
 ⚠️ Configuration and start-up modification required for Java 24 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and following; see [release note](https://openjdk.org/jeps/486) <br>
@@ -41,8 +42,7 @@ The following sections show the status of each plugin for newer versions of Mine
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 
 ## pHD 1.9.0
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5 <br>
-⚠️ Compatibility will be updated when a hologram provider is updated to support 1.21.6 <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
 
 ## PluginVersions 1.3.5
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6 <br>
