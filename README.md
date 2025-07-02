@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-06-30
+Last update: 2025-07-02
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -32,8 +32,8 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## NetworkInterceptor 3.4.3
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6, 1.21.7 <br>
-✅ Compatible with BungeeCord 1.21-1929 <br>
-✅ Compatible with Velocity 3.4.0-483 <br>
+✅ Compatible with BungeeCord 1.21-1984 <br>
+✅ Compatible with Velocity 3.4.0-521 <br>
 ⚠️ Configuration and start-up modification required for Java 24 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and following; see [release note](https://openjdk.org/jeps/486) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Consequently, NetworkInterceptor method `security-manager` is no longer supported <br>
@@ -46,5 +46,5 @@ The following sections show the status of each plugin for newer versions of Mine
 
 ## PluginVersions 1.3.5
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6, 1.21.7 <br>
-✅ Compatible with BungeeCord 1.21-1929 <br>
-✅ Compatible with Velocity 3.4.0-483 <br>
+✅ Compatible with BungeeCord 1.21-1984 <br>
+✅ Compatible with Velocity 3.4.0-521 <br>
