@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-07-17
+Last update: 2025-07-18
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -42,8 +42,8 @@ The following sections show the status of each plugin for newer versions of Mine
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 
 ## pHD 1.9.0
-✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6, 1.21.7 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ 1.21.8 compatibility waiting for updates to hologram providers <br>
+✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8 <br>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ 1.21.8 compatibility waiting for updates to hologram providers <br> -->
 
 ## PluginVersions 1.3.5
 ✅ Compatible with PaperMC and SpigotMC: 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8 <br>
