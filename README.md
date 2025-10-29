@@ -1,5 +1,5 @@
 # State-Of-Play
-Last update: 2025-10-07
+Last update: 2025-10-29
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
@@ -17,6 +17,7 @@ The following sections show the status of each plugin for newer versions of Mine
 ## AggressiveAnimals 1.9.0
 ✅ Compatible with PaperMC: through 1.21.10 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced in 1.21.6 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling), [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Nautilus introduced in 1.21.11 is not supported: [nautilus](https://minecraft.wiki/w/Nautilus) <br>
 ⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
 ## BiomeRemap 3.2.4
