@@ -38,8 +38,8 @@ The following sections show the status of each plugin for newer versions of Mine
 ✅ Compatible with PaperMC and SpigotMC: through 1.21.11 <br>
 ✅ Compatible with BungeeCord 1.21-* <br>
 ✅ Compatible with Velocity 3.4.0-* <br>
-⚠️ Configuration and start-up modification required for Java 24 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and following; see [release note](https://openjdk.org/jeps/486) <br>
+⚠️ Configuration and start-up modification required for Java 24 and later <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Security Manager is permanently disabled in Java 24 and later; see [release note](https://openjdk.org/jeps/486) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Consequently, NetworkInterceptor method `security-manager` is no longer supported <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Delete (or comment out) `security-manager` at line 32 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Start server or proxy without the optional Java parameter `-Djava.security.manager=allow` <br>
