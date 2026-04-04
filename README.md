@@ -47,8 +47,8 @@ The following sections show the status of each plugin for newer versions of Mine
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 
 ## pHD 1.9.0
-✅ Compatible with PaperMC and SpigotMC: through 1.21.11 <br>
-⚠️ 26.1.1 compatibility waiting for updates to hologram providers <!-- --> <br>
+✅ Compatible with PaperMC and SpigotMC: through 26.1.1 <br>
+<!-- ⚠️ 26.1.1 compatibility waiting for updates to hologram providers <br> --> 
 
 ## PluginVersions 1.3.5
 ✅ Compatible with PaperMC and SpigotMC: through 26.1.1 <br>
