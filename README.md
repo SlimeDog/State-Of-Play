@@ -17,7 +17,7 @@ The following sections show the status of each plugin for newer versions of Mine
 ## AggressiveAnimals 1.9.0
 ✅ Compatible with PaperMC: through 26.1.2 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced after 1.21.3 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling), [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Passive mobs introduced after 1.21 are not supported:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Passive mobs introduced after 1.21.3 are not supported:
 [camel husk](https://minecraft.wiki/w/Camel_Husk),
 [nautilus](https://minecraft.wiki/w/Nautilus),
 [sulfur cube](https://minecraft.wiki/w/Sulfur_Cube),
