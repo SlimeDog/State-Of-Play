@@ -1,10 +1,13 @@
 # State-Of-Play
-Last update: 2026-09-21 &mdash; 26.3 supported
+Update: 2026-10-01 &mdash; AggressiveAnimals released on Hangar <br>
+Update: 2026-09-21 &mdash; 26.3 support verified
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
 
-SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
+AggressiveAnimals was updated to support missing passive and neutral mobs on PaperMC only, on 2026-10-01. See [config.yml](https://github.com/SlimeDog/AggressiveAnimals/blob/master/main/src/main/resources/config.yml) for the current list of supported mobs.
+
+With the exception of AggressiveAnimals, SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
 meaning that development and support ceased, and the source code and wiki pages were locked.
 At that point, SlimeDog plugins were compatible with Minecraft 1.21,
 and they remained 100% compatible through Minecraft 1.21.3.
@@ -15,7 +18,8 @@ The following sections show the status of each plugin for newer versions of Mine
 -----
 
 ## AggressiveAnimals 2.0.0
-✅ Compatible with PaperMC 1.21.3 through 26.3 <br> <!--
+✅ Compatible with PaperMC 1.21.3 through 26.3 <br>
+✅ AggressiveAnimals 1.9.0 is compatible with previous versions of PaperMC <br> <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced after 1.21.3 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling), [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Passive mobs introduced after 1.21.3 are not supported:
 [camel husk](https://minecraft.wiki/w/Camel_Husk),
