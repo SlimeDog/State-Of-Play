@@ -14,14 +14,14 @@ The following sections show the status of each plugin for newer versions of Mine
 
 -----
 
-## AggressiveAnimals 1.9.0
-✅ Compatible with PaperMC: through 26.3 <br>
+## AggressiveAnimals 2.0.0
+✅ Compatible with PaperMC 1.21.3 through 26.3 <br> <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced after 1.21.3 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling), [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Passive mobs introduced after 1.21.3 are not supported:
 [camel husk](https://minecraft.wiki/w/Camel_Husk),
 [nautilus](https://minecraft.wiki/w/Nautilus),
 [sulfur cube](https://minecraft.wiki/w/Sulfur_Cube),
-[zombie horse](https://minecraft.wiki/w/Zombie_Horse) <br>
+[zombie horse](https://minecraft.wiki/w/Zombie_Horse) <br> -->
 ⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
 ## BiomeRemap 3.2.4
