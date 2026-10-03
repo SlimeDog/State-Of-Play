@@ -5,13 +5,13 @@ with particular reference to compatibility with newer versions of Minecraft.
 
 ### 2026-10-01 &mdash; AggressiveAnimals 2.0.0 released <br>
 
-AggressiveAnimals was updated to support missing passive and neutral mobs on on Hangar for PaperMC only, on 2026-10-01. See [config.yml](https://github.com/SlimeDog/AggressiveAnimals/blob/master/main/src/main/resources/config.yml) for the current list of supported mobs.
+AggressiveAnimals was updated for PaperMC only using Claude Code, to support missing passive and neutral mobs. See [config.yml](https://github.com/SlimeDog/AggressiveAnimals/blob/master/main/src/main/resources/config.yml) for the current list of supported mobs.
 
 ### 2026-09-21 &mdash; 26.3 support verified
 
 ### 2024-07-09 &mdash; End Of Life
 
-SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
+SlimeDog plugins were transitioned to End Of Life (EOL),
 meaning that development and support ceased, and the source code and wiki pages were locked.
 At that point, SlimeDog plugins were compatible with Minecraft 1.21,
 and they remained 100% compatible through Minecraft 1.21.3.
