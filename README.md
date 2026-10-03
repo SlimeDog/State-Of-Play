@@ -1,13 +1,17 @@
 # State-Of-Play
-Update: 2026-10-01 &mdash; AggressiveAnimals released on Hangar <br>
-Update: 2026-09-21 &mdash; 26.3 support verified
 
 This page contains occasional updates to the status of SlimeDog plugins,
 with particular reference to compatibility with newer versions of Minecraft.
 
-AggressiveAnimals was updated to support missing passive and neutral mobs on PaperMC only, on 2026-10-01. See [config.yml](https://github.com/SlimeDog/AggressiveAnimals/blob/master/main/src/main/resources/config.yml) for the current list of supported mobs.
+### 2026-10-01 &mdash; AggressiveAnimals 2.0.0 released <br>
 
-With the exception of AggressiveAnimals, SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
+AggressiveAnimals was updated to support missing passive and neutral mobs on on Hangar for PaperMC only, on 2026-10-01. See [config.yml](https://github.com/SlimeDog/AggressiveAnimals/blob/master/main/src/main/resources/config.yml) for the current list of supported mobs.
+
+### 2026-09-21 &mdash; 26.3 support verified
+
+### 2024-07-09 &mdash; End Of Life
+
+SlimeDog plugins were transitioned to End Of Life (EOL) on 2024-07-09,
 meaning that development and support ceased, and the source code and wiki pages were locked.
 At that point, SlimeDog plugins were compatible with Minecraft 1.21,
 and they remained 100% compatible through Minecraft 1.21.3.
@@ -29,10 +33,10 @@ The following sections show the status of each plugin for newer versions of Mine
 ⛔ Incompatible with SpigotMC 1.21.4 and later &mdash; MC version is not supported <br>
 
 ## BiomeRemap 3.2.4
-✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
+✅ Compatible with PaperMC and SpigotMC, through 26.3 <br>
 
 ## EntityCount 1.2.0
-✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
+✅ Compatible with PaperMC and SpigotMC, through 26.3 <br>
 
 ## MobColors 1.2.0
 ✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
@@ -40,7 +44,7 @@ The following sections show the status of each plugin for newer versions of Mine
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Ghast variants introduced after 1.21.3 are not supported: [ghastling](https://minecraft.wiki/w/Ghastling), [happy ghast](https://minecraft.wiki/w/Happy_Ghast) <br>
 
 ## NetworkInterceptor 3.4.3
-✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
+✅ Compatible with PaperMC and SpigotMC, through 26.3 <br>
 ⚠️ Configuration modification required for Paper 1.21.11 and later <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Add fill.papermc.io to the allowed configuration, to support the built-in version finder <br>
 ✅ Compatible with Velocity 3.4.0-* <br>
@@ -52,10 +56,10 @@ The following sections show the status of each plugin for newer versions of Mine
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash; Some outgoing requests will no longer be recognized, as described at line 27 of [config.yml](https://github.com/SlimeDog/NetworkInterceptor/blob/master/src/main/resources/config.yml) <br>
 
 ## pHD 1.9.0
-✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
+✅ Compatible with PaperMC and SpigotMC, through 26.3 <br>
 <!-- ⚠️ 26.1.2 compatibility waiting for updates to hologram providers <br> --> 
 
 ## PluginVersions 1.3.5
-✅ Compatible with PaperMC and SpigotMC: through 26.3 <br>
+✅ Compatible with PaperMC and SpigotMC, through 26.3 <br>
 ✅ Compatible with BungeeCord 1.21-* <br>
 ✅ Compatible with Velocity 3.4.0-* <br>
